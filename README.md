@@ -1,0 +1,2 @@
+# DotNetCore
+Estudo de .NetCore
