@@ -1,0 +1,11 @@
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\bin\Debug\netcoreapp2.0\DemoEFCore.deps.json
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\bin\Debug\netcoreapp2.0\DemoEFCore.runtimeconfig.json
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\bin\Debug\netcoreapp2.0\DemoEFCore.runtimeconfig.dev.json
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\bin\Debug\netcoreapp2.0\DemoEFCore.dll
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\bin\Debug\netcoreapp2.0\DemoEFCore.pdb
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.csprojResolveAssemblyReference.cache
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.csproj.CoreCompileInputs.cache
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.AssemblyInfoInputs.cache
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.AssemblyInfo.cs
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.dll
+C:\Git\DotNetCore\DemoEFCore\DemoEFCore\obj\Debug\netcoreapp2.0\DemoEFCore.pdb
