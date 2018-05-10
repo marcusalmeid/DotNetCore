@@ -1,0 +1,12 @@
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\bin\Debug\netcoreapp2.0\DemoIdentity.deps.json
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\bin\Debug\netcoreapp2.0\DemoIdentity.runtimeconfig.json
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\bin\Debug\netcoreapp2.0\DemoIdentity.runtimeconfig.dev.json
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\bin\Debug\netcoreapp2.0\DemoIdentity.dll
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\bin\Debug\netcoreapp2.0\DemoIdentity.pdb
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.csprojResolveAssemblyReference.cache
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.csproj.CoreCompileInputs.cache
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.AssemblyInfoInputs.cache
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.AssemblyInfo.cs
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.dll
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\DemoIdentity.pdb
+C:\Git\DotNetCore\DemoIdentity\DemoIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
